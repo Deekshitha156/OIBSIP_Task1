@@ -30,7 +30,7 @@ A modern **GUI-based BMI Calculator** built using **Python Tkinter** with tracki
 ## 📂 Project Structure
 
 ```
-Advanced-BMI-Calculator/
+Task1/
 │
 ├── bmi_tracker.py
 ├── bmi_history.csv
@@ -57,7 +57,7 @@ pip install matplotlib
 ### 3️⃣ Run the Application
 
 ```bash
-python bmi_tracker.py
+python Task1.py
 ```
 
 ---
@@ -92,7 +92,7 @@ Internally converted to metric before calculation.
 
 ## 👩‍💻 Author
 
-Deekshitha Poojary
+Deekshitha 
 
 ---
 
